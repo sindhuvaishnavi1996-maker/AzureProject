@@ -1,0 +1,9 @@
+{
+	"name": "FactoryAzureProjectsindh",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "bd92165a-59ee-431b-a664-11a7225ea2c5",
+		"tenantId": "67c0bbb9-5cbd-4b23-a813-9414ed73ee94"
+	}
+}
